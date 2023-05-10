@@ -1,1 +1,2 @@
-
+Please open the notebook(file ending in.ipynb) and find the notes and assignment listed there.
+Also the PDF Notes are now available for [today's lesson](https://github.com/Joy879/Africa-Data-School-Curriculum/blob/main/notebooks/3_Intro_to_Python/04%20Python.pdf) and [Yesterday's](https://github.com/Joy879/Africa-Data-School-Curriculum/tree/main/notebooks/2_Frameworks_%26_Tools) lesson
