@@ -1,0 +1,1 @@
+Moving on you will notice most classes have an assignment. All assignment questions will be found at the bottom part of class notebooks. Submissions will be made on a weekly basis on the same form. We expect 3 submissions per week. Please make time in your personal schedule to go over weekly content and do the assignments.
