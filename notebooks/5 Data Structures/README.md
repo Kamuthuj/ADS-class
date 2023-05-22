@@ -11,6 +11,12 @@
 ## Need more learning material?
 * [W3schools- Check out their Operators and Variables Topics](https://www.w3schools.com/python/python_syntax.asp)
 * [Sololearn](https://www.sololearn.com/learn/courses/python-introduction)
+
+
+
+
+
+
 Comparison Operators
 ![image](https://github.com/Joy879/Africa-Data-School-Curriculum/assets/70502261/0e731f79-37c1-4fb9-a45c-7592fe598657)
 
