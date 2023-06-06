@@ -11,8 +11,8 @@ You can also get instructions for how to install on youtube using the following 
 Please create an account on [www.github.com](https://github.com/)
 
 # Content
-https://www.youtube.com/watch?v=RGOj5yH7evk
-https://www.freecodecamp.org/news/introduction-to-git-and-github/
+* https://www.youtube.com/watch?v=RGOj5yH7evk
+* https://www.freecodecamp.org/news/introduction-to-git-and-github/
 
 ### Keywords
 ![image](https://github.com/Joy879/Africa-Data-School-Curriculum/assets/70502261/dd7546e5-3392-46f4-a700-18e8edac8ea8)
